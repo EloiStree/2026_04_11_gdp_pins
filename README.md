@@ -29,3 +29,10 @@ git clone https://github.com/EloiStree/2026_04_11_gdp_pins.git addons/2026_04_11
 Hard to implement for later:
 - Read / Write Pin, Micro Controller:
 - Under frame UART and PWM feature.
+
+
+
+
+------------
+
+💡 Une bonne idee que j ai eu en parlant avec Vincent. Avoir des pins udp et pin websocket. En gros des pins configurables avec un peu de byte control. Donc le but de permettre du "creative mode." externe.
