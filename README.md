@@ -11,3 +11,21 @@ Add to a non-git project:
 ```
 git clone https://github.com/EloiStree/2026_04_11_gdp_pins.git addons/2026_04_11_gdp_pins
 ```
+
+
+### To Do
+
+- Black, Ground Pin: 
+ -  With estimated volt out
+- Red, Volt in Pin:
+ - With volt in
+ - Min Volt to work
+ - Max volt to stop
+ - Volt to break
+- Signal, Volt out pin:
+	- Percent Value out
+	
+	
+Hard to implement for later:
+- Read / Write Pin, Micro Controller:
+- Under frame UART and PWM feature.
